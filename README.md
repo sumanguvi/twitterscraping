@@ -74,8 +74,14 @@ from datetime import datetime
 ## Project Screenshots
 ```bash
 # STREAMLIT APP
-![](tsapp.png)
+![tsapp](https://user-images.githubusercontent.com/122452042/230709691-13878680-d519-4b96-871c-3948cd629130.png)
+
 # MONGODB TWEETS DATABASE
+![tsapp_mongodb](https://user-images.githubusercontent.com/122452042/230709723-9f08ca85-6744-4552-85f7-2611954c87ac.png)
+
+# STREAMLIT APP URLs
+
+![tsapp_streamlit](https://user-images.githubusercontent.com/122452042/230709740-660ca36e-67ca-48bd-9b57-2d3a207de2ae.png)
 
 ```
 
