@@ -74,6 +74,7 @@ from datetime import datetime
 ## Project Screenshots
 ```bash
 # STREAMLIT APP
+![](tsapp.png)
 # MONGODB TWEETS DATABASE
 
 ```
