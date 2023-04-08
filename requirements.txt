@@ -1,0 +1,6 @@
+
+1. Snscrape scraping tool
+2. Python 3.8 or higher
+3. Pandas
+4. Streamlit
+5. Mongodb
